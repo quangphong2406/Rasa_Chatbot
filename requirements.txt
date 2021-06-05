@@ -1,0 +1,3 @@
+rasa[spacy]==2.4.0
+rasa-sdk==2.4.0
+underthesea
